@@ -1,0 +1,29 @@
+.navbarExpand{
+    width: 100%;
+    background-color: white;
+}
+
+.smallImg{
+    width: 6%;
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.title{
+    color: black;
+    text-decoration: none;
+    font-weight: 800;
+    font-size: 30px;
+}
+
+.cuenta{
+    margin-right: 5rem;
+}
+
+.name{
+    font-weight: 400;
+    font-size: 1.2rem;
+}

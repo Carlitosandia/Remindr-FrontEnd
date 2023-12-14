@@ -1,0 +1,41 @@
+.card{
+    background-color: white;
+    width: 40%;
+    margin: auto;
+    height: 40vh;
+    margin-top: 9rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+.numberContainer{
+    display: flex;
+    margin-bottom: 3rem;
+}
+.formLada{
+    text-align: center;
+    padding: 0.5rem 2rem 0.5rem 0.2rem;
+    width: 15%;
+    margin-left: 1rem;
+}
+.formLada::placeholder{
+    font-size: 15px;
+    font-weight: 800;
+    text-align: left;
+}
+.formNumber{
+    width: 60%;
+    padding: 0.5rem 0.2rem 0.5rem 0.2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-left: 1rem;
+}
+
+.formGroup{
+    display:  flex;
+    justify-content: center;
+}
+
+.formText{
+    margin: 0;
+    text-align: center;
+}

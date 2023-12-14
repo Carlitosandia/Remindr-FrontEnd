@@ -1,0 +1,10 @@
+
+.formGroup{
+    margin-bottom: 1.1rem;
+}
+
+.formInput{
+    padding: 0.6rem 2rem;
+    border: 0.1rem solid;
+    border-color: rgb(217, 0, 255);
+}

@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.title{
+    text-align: center;
+    font-size: 1.8rem;
+    font-weight: 400;
+    margin:0;
+}
+
+.logoRemindr{
+    display: flex;
+    justify-content: center;
+}
+
+.smallImg{
+    width: 30%;
+}

@@ -1,0 +1,40 @@
+html{
+    background-color: #FCF1FF;
+}
+.container{
+    background-color: #FCF1FF;
+}
+
+.card{
+    background-color: white;
+    width: 25%;
+    margin: auto;
+    height: 70vh;
+    margin-top: 6rem;
+    text-align: center;
+    padding-top: 2rem;
+}
+
+.title{
+    font-size: 1.8rem;
+    margin: 0, 0 , 1rem, 0;
+}
+
+.btnSubmit{
+    padding: 0.5rem 3rem;
+    background-color: rgb(217, 0, 255);
+    border: none;
+    color: white;
+    font-size: 1rem;
+    cursor:pointer;
+}
+
+.formGroup{
+    margin-bottom: 1.1rem;
+}
+
+.formInput{
+    padding: 0.6rem 2rem;
+    border: 0.1rem solid;
+    border-color: rgb(217, 0, 255);
+}

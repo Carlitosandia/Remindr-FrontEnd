@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    height: 100vh;
+}
+.logoRemindr{
+    width: 75%;
+    background: linear-gradient(to top right, white, rgb(93, 6, 117));
+    text-align: center;
+}
+.mainImg{
+    width: 40%;
+    margin-top: 7rem;
+}
+.title{
+    font-size: 40px;
+    font-weight: 500;
+    margin: 0;
+    margin-bottom: 2rem;
+}
+.slogan{
+    color: white;
+    margin: 0;
+    font-size: 25px;
+}
+
+.textBold{
+    text-align: center;
+    font-weight: 700;
+    font-size: 25px;
+}
+
+.options{
+    width: 50%;
+    margin: auto;
+}
+.btnContainer{
+    display: flex; 
+    justify-content: center;
+}
+
+.btn{
+    margin: 0 2rem;
+    text-decoration: none;
+    padding: 0.7rem 2rem;
+    background-color: rgb(6, 186, 0);
+    border-radius:10px;
+    color: white;
+    font-weight: 500;
+}
